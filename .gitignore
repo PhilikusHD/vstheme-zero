@@ -373,3 +373,4 @@ SampleSharp/
 VSZero/output/
 ColorRemap/
 /src/output
+*.vsix
